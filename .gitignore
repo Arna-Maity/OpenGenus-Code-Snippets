@@ -1,0 +1,4 @@
+__pycache__/
+.pytest_cache/
+venv/
+expense_tracker_api
